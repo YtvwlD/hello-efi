@@ -1,1 +1,4 @@
 /target
+*.fd
+*.img
+mkgpt/
